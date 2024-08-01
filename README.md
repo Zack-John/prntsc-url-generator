@@ -1,5 +1,5 @@
 # prntsc-url-generator
-This is a small script to generate random prnt.sc URLs.
+This is a small script I wrote to generate random prnt.sc URLs while messing around with friends. I'm mostly uploading it here as a way for them to download and use it themselves.
 
 prnt.sc is an image-hosting site used to store screenshots taken with the Lightshot tool. Each image is hosted on a unique, random url comprised of five or six alphanumeric characters.
 
