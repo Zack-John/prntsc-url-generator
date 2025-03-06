@@ -9,6 +9,4 @@ The script simply generates a random URL and opens a web browser page to automat
 
 All you'll need is a version of python3 installed to run the script. Then simply download the script, change any settings (character list, url length) inside the script that you'd like to, and run it!
 
-### Note
-
-<b>The screenshots hosted on prnt.sc are not moderated, and you may potentially get personal data or NSFW content.</b>
+### Note: The screenshots hosted on prnt.sc are not moderated, and you may potentially get personal data or NSFW content.
